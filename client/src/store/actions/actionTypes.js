@@ -1,0 +1,3 @@
+export const INIT_CARDS = 'INIT_CARDS'
+export const SET_CARDS = 'SET_CARDS'
+export const FETCH_CARDS_FAILED = 'FETCH_CARDS_FAILED'
